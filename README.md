@@ -1,2 +1,2 @@
-# Best-Resume-Builder
+# Best-Resume
 RESUME 
